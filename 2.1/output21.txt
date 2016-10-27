@@ -1,0 +1,5 @@
+ intensity=50000000 and it took 3.2556 seconds
+ intensity=100000000 and it took 6.51035 seconds
+ intensity=150000000 and it took 9.76535 seconds
+ intensity=500000000 and it took 32.548 seconds
+ intensity=1000000000 and it took 65.0981 seconds
