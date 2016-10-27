@@ -1,0 +1,11 @@
+Observations for question 4:
+ How does the speedup change with 16 computational threads?
+
+ The chart shows a trend of a direct relationship between intensity and speedup.  That is to say, as the operational intensity increases, so does the speedup observed.
+
+
+
+Observations for question 5:
+ Vary the ration of intensity.  How does the speedup change with 16 computational threads?
+
+ The observed data, as reflected in the chart, shows that speedup is decreasing as the intensity factor is increased.
